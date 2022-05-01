@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Flash Freeze</string>
+    <string name="temp_cur">10°</string>
+    <string name="conditions_icy">Icy Conditions</string>
+    <string name="day_cur">Monday</string>
+    <string name="conditions_default">Now\n Icy</string>
+    <string name="bg_desc">Snowy Forest background</string>
+    <string name="loading_screen">Company Logo loading screen</string>
+    
+    <string name="selected_item">Selected day: </string>
+    
+    <string-array name="Days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
